@@ -14,12 +14,12 @@ Learning Command Center is a unified dashboard that tracks curricula, tasks, sch
 * **Database:** PostgreSQL (with SQLAlchemy and Alembic)
 
 ## Project Structure
-\`\`\`text
+```text
 learning-command-center/
 ├── backend/           # FastAPI backend and background workers
 ├── frontend/          # Next.js web application
 └── docs/              # Architecture Decision Records (ADRs) and notes
-\`\`\`
+```
 
 ## Getting Started
 *(Local development instructions will be added here as the application is built.)*
